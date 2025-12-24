@@ -1,0 +1,7 @@
+{
+  "name": "FleetTrack Pro",
+  "description": "Enterprise-grade Fleet Management System for modern logistics. Track vehicles, drivers, routes, fuel, and maintenance in one unified dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
